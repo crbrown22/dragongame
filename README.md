@@ -1,6 +1,6 @@
 #Dragon Game
 
-Fun Fitness simple Python game that allows you to exchange strikes with a dragon..Dont get slayed, choose your character wisely!
+Simple Python game that allows you to exchange strikes with a dragon..Dont get slayed, choose your character wisely!
 
 #Features:
 
